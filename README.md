@@ -11,4 +11,4 @@
 - Always ready to chat! Contact me on Discord.
 
 ## 3. Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verbelowski)](https://github.com/verbelowski/github-readme-stats)
+[![Vertennn's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=verbelowski)](https://github.com/verbelowski/github-readme-stats)
