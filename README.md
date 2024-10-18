@@ -1,4 +1,6 @@
 # Hi, I am Vertennn! <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="">
+- A fast-learning programmer focusing on open-source software.
+- A programming enthusiast for over 4 years now.
 
 <!--
 **verbelowski/verbelowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
