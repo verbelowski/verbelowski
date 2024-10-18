@@ -11,4 +11,4 @@
 - Always ready to chat! Contact me on Discord.
 
 ## 3. Statistics
-[![Vertennn's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=verbelowski)](https://github.com/verbelowski/github-readme-stats)
+[![Vertennn's GitHub Statistics](https://github-readme-stats.verbelowski.vercel.app/api/?username=verbelowski&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true)](https://github.com/verbelowski/github-readme-stats)
