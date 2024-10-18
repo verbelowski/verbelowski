@@ -1,4 +1,5 @@
 # Hi, I am Vertennn! <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="">
+- A back-end developer from Poland.
 - A fast-learning programmer focusing on open-source software.
 - A programming enthusiast for over 4 years now.
 
