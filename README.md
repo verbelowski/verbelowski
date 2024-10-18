@@ -1,4 +1,4 @@
-## Hi, I'am Vertennn 👋 <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="" style="display: block; margin: 0 auto;">
+## Hi, I'am Vertennn 👋 <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="" align="center">
 
 <!--
 **verbelowski/verbelowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
