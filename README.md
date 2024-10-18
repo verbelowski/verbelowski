@@ -10,7 +10,7 @@
 - Always eager to learn new things and work in teams.
 - Always ready to chat! Contact me on Discord.
 
-## 3. Statistics [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
+## 3. Statistics (-# [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats))
 <table>
   <tr>
     <td style="padding: 0; width: 50%;">
