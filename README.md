@@ -9,3 +9,6 @@
 ## 2. Short Notes
 - Always eager to learn new things and work in teams.
 - Always ready to chat! Contact me on Discord.
+
+## 3. Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verbelowski)](https://github.com/verbelowski/github-readme-stats)
