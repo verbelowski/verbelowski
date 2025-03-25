@@ -8,7 +8,7 @@
 
 ## 2. Short Notes
 - Always eager to learn new things and work in teams.
-- Always ready to chat! Contact me on [Discord](https://discord.com/users/1118126429356445738).
+- Always ready to chat! Contact me on <a href="https://discord.com/users/1118126429356445738" target="_blank">Discord</a> [Discord](https://discord.com/users/1118126429356445738).
 
 ## 3. Statistics ([GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats))
 <table>
