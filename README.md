@@ -11,12 +11,12 @@
 - Always ready to chat! Contact me on [Discord](https://discord.com/users/1118126429356445738).
 
 ## 3. Statistics ([GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats))
-<table style="width: 100%; height: 100%; border: none;">
-  <tr style="height: 100%; display: flex;">
-    <td style="flex: 1; padding: 0;">
+<table>
+  <tr>
+    <td style="padding: 0; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=verbelowski&show_icons=true&title_color=4f8cc9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4f8cc9&hide_title=true&count_private=true" alt="Vertennn's Statistics 01">
     </td>
-    <td style="flex: 1; padding: 0;">
+    <td style="padding: 0; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=verbelowski&repo=starlight&show_icons=true&title_color=4f8cc9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4f8cc9&hide_title=true&count_private=true" alt="Vertennn's Statistics 02">
     </td>
   </tr>
