@@ -3,7 +3,7 @@
 - A fast-learning programmer focusing on open-source software.
 - A programming enthusiast for over 5 years now.
 
-## 1. Short Notes
+## 1. Notes
 - Always eager to learn new things and work in teams.
 - Always ready to chat! Contact me on [Discord](https://discord.com/users/1118126429356445738).
 
