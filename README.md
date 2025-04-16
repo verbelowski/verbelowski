@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=verbelowski&count_private=true&disable_animations=true&hide=contribs&hide_border=true&hide_title=true&show_icons=true&theme=dracula" alt="Vertennn's Statistics 01">
     </td>
     <td style="padding: 0; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verbelowski&repo=starlight&show_icons=true&title_color=4f8cc9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4f8cc9&hide_title=true&count_private=true" alt="Vertennn's Statistics 02">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verbelowski&count_private=true&disable_animations=true&hide_border=true&hide_title=true&repo=starlight&show_icons=true&theme=dracula" alt="Vertennn's Statistics 02">
     </td>
   </tr>
 </table>
