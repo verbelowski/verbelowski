@@ -5,7 +5,7 @@
 
 ## 1. Experience
 - I'm too lazy to write it out, so check out my portfolio.
-- Link: https://www.vertennn.dev/
+- Link: https://www.vertennn.dev/ (under construction)
 
 ## 2. Short Notes
 - Always eager to learn new things and work in teams.
