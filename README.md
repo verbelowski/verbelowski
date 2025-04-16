@@ -4,10 +4,7 @@
 - A programming enthusiast for over 5 years now.
 
 ## 1. Experience
-- HTML, CSS, JS, MySQL (2020-2021)
-- TypeScript, Java (2021-2022)
-- C#, Node.js (2022-2024)
-- [Click to read more...](https://www.vertennn.dev/#biography)
+- I'm too lazy to write it out, so check out my website.
 
 ## 2. Short Notes
 - Always eager to learn new things and work in teams.
