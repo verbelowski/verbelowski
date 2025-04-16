@@ -4,7 +4,8 @@
 - A programming enthusiast for over 5 years now.
 
 ## 1. Experience
-- I'm too lazy to write it out, so check out my website.
+- I'm too lazy to write it out, so check out my portfolio.
+- Link: https://www.vertennn.dev/
 
 ## 2. Short Notes
 - Always eager to learn new things and work in teams.
