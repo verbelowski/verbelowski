@@ -3,14 +3,11 @@
 - A fast-learning programmer focusing on open-source software.
 - A programming enthusiast for over 5 years now.
 
-## 1. Experience
-- ...
-
-## 2. Short Notes
+## 1. Short Notes
 - Always eager to learn new things and work in teams.
 - Always ready to chat! Contact me on [Discord](https://discord.com/users/1118126429356445738).
 
-## 3. Statistics ([GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats))
+## 2. Statistics ([GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats))
 <table>
   <tr>
     <td style="padding: 0; width: 50%;">
