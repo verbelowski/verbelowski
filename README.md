@@ -1,20 +1,34 @@
-# Hi, I'm Vertennn! <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="Vertennn's Profile Views">
-- A backend-focused developer from Poland.
-- A fast-learning programmer focusing on open-source software.
-- A programming enthusiast for over 5 years now.
+# Hello, my name is Vertennn! <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="This image shows the profile views." />
 
-## 1. Notes
-- Always eager to learn new things and work in teams.
-- Always ready to chat! Contact me on [Discord](https://discord.com/users/1118126429356445738).
+I’m a technology enthusiast, and in my free time I enjoy programming and <br />
+music, love animals and anime, and like reading, cooking, and doing sports.
 
-## 2. Statistics ([GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats))
-<table>
-  <tr>
-    <td style="padding: 0; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=verbelowski&count_private=true&disable_animations=true&hide=contribs&hide_border=true&hide_title=true&show_icons=true&theme=dracula" alt="Vertennn's Statistics 01">
-    </td>
-    <td style="padding: 0; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=verbelowski&count_private=true&disable_animations=true&hide_border=true&hide_title=true&repo=starlight&show_icons=true&theme=dracula" alt="Vertennn's Statistics 02">
-    </td>
-  </tr>
-</table>
+## About Me
+
+I design and build whatever I can imagine. <br />
+If an idea pops into my head, chances are I'll build and ship it.
+
+My pinned project is my NixOS system configuration using Hyprland as the window manager. <br />
+So far, this is my main public repository, but I’m learning and experimenting a lot privately.
+
+More projects, especially open-source, will appear soon as I start programming seriously.
+
+## Statistics
+
+...It'll appear as soon as I prepare them.
+
+## Profile Links
+
+<details>
+  <summary>Expand to see more information:</summary>
+
+  <ul>
+    <li>https://www.vertennn.dev/</li>
+    <li>https://www.youtube.com/@Vertennn</li>
+    <li>https://discord.com/users/1118126429356445738</li>
+  </ul>
+
+  <br />
+
+  <strong>All projects listed here are created and maintained by me.</strong>
+</details>
