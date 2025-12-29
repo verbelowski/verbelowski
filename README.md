@@ -8,14 +8,14 @@ music, love animals and anime, and like reading, cooking, and doing sports.
 I design and build whatever I can imagine. <br />
 If an idea pops into my head, chances are I'll build and ship it.
 
-My pinned project is my NixOS system configuration using Hyprland as the window manager. <br />
-So far, this is my main public repository, but I’m learning and experimenting a lot privately.
+At the moment, my pinned projects include my NixOS configuration and GitHub statistics as I start programming more seriously. <br />
+I spend a lot of time experimenting in private repositories, which I occasionally make public once they are polished enough for public use.
 
 More projects, especially open-source, will appear soon as I start programming seriously.
 
 ## Statistics
 
-...It'll appear as soon as I prepare them.
+*At the moment, I am working on my own statistics script.*
 
 ## Profile Links
 
