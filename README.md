@@ -8,8 +8,8 @@ music, love animals and anime, and like reading, cooking, and doing sports.
 I design and build whatever I can imagine. <br />
 If an idea pops into my head, chances are I'll build and ship it.
 
-At the moment, my pinned projects include my NixOS configuration and GitHub statistics as I start programming more seriously. <br />
-I spend much time experimenting in private repositories, which I occasionally make public once they are polished enough.
+My pinned projects include "nix-config" and "github-statistics". <br />
+I experiment in private repositories and publish them once polished.
 
 More projects, especially open-source, will appear soon as I start programming seriously.
 
