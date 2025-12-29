@@ -9,7 +9,7 @@ I design and build whatever I can imagine. <br />
 If an idea pops into my head, chances are I'll build and ship it.
 
 At the moment, my pinned projects include my NixOS configuration and GitHub statistics as I start programming more seriously. <br />
-I spend a lot of time experimenting in private repositories, which I occasionally make public once they are polished enough for public use.
+I spend much time experimenting in private repositories, which I occasionally make public once they are polished enough.
 
 More projects, especially open-source, will appear soon as I start programming seriously.
 
