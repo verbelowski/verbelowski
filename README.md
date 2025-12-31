@@ -1,34 +1,42 @@
-# Hello, my name is Vertennn! <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="This image shows the profile views." />
+# Hi, I'm Vertennn! <img src="https://komarev.com/ghpvc/?username=verbelowski" alt="This image shows the profile views." />
 
-I’m a technology enthusiast, and in my free time I enjoy programming and <br />
-music, love animals and anime, and like reading, cooking, and doing sports.
+<em>
+  I’m a technology enthusiast, and in my free time I enjoy programming and <br />
+  music, love animals and anime, and like reading, cooking, and doing sports.
+</em>
 
 ## About Me
 
-I design and build whatever I can imagine. <br />
-If an idea pops into my head, chances are I'll build and ship it.
+<em>
+  I design and build whatever I can imagine. <br />
+  If an idea pops into my head, chances are I'll build and ship it.
+</em>
 
-My pinned projects include "nix-config" and "github-statistics". <br />
-I experiment in private repositories and publish them once polished.
+<br />
+<br />
 
-More projects, especially open-source, will appear soon as I start programming seriously.
+<em>
+  At the moment, I don’t have many public repositories, but that will change. <br />
+  I implement my ideas in private repositories. If I consider them polished enough, I will release them.
+</em>
+
+<br />
+<br />
+
+<em>I value open-source, so whenever possible, I aim to make most of my projects available that way.</em>
 
 ## Statistics
 
-*At the moment, I am working on my own statistics script.*
+<em>I'm currently working on a script that displays statistics...</em>
 
 ## Profile Links
 
 <details>
-  <summary>Expand to see more information:</summary>
+  <summary><em>Expand to see my social media links:</em></summary>
 
   <ul>
     <li>https://www.vertennn.dev/</li>
     <li>https://www.youtube.com/@Vertennn</li>
     <li>https://discord.com/users/1118126429356445738</li>
   </ul>
-
-  <br />
-
-  <strong>All projects listed here are created and maintained by me.</strong>
 </details>
