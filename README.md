@@ -20,7 +20,7 @@ I'm currently working on a script that displays statistics...
 ## Profile Links
 
 <details>
-  <summary><em>Expand to see my social media links:</em></summary>
+  <summary>Expand to see my social media links:</summary>
 
   <ul>
     <li>https://www.vertennn.dev/</li>
