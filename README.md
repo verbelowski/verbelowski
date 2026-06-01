@@ -3,18 +3,14 @@
 I’m a technology enthusiast, and in my free time I enjoy programming and <br />
 music, love animals and anime, and like reading, cooking, and doing sports.
 
-## Statistics
-
-...soon
-
 ## Profile Links
 
 <details>
   <summary>Expand to see my social media links:</summary>
 
   <ul>
-    <li><a href="https://discord.com/users/1118126429356445738">Discord</a></li>
     <li><a href="https://www.youtube.com/@Vertennn">YouTube</a></li>
+    <li><a href="https://discord.com/users/1118126429356445738">Discord</a></li>
     <li><a href="https://www.vertennn.dev/">Vertennn's Portfolio</a></li>
   </ul>
 </details>
